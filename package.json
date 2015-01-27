@@ -1,0 +1,30 @@
+{
+  "name": "mongorm",
+  "version": "1.0.0",
+  "description": "mongo relation model",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cullophid/mongorm.git"
+  },
+  "author": "Cullophid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cullophid/mongorm/issues"
+  },
+  "homepage": "https://github.com/cullophid/mongorm",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "chai-as-promised": "^4.1.1",
+    "gulp": "^3.8.10",
+    "mocha": "^2.1.0",
+    "requireindex": "^1.1.0",
+    "sinon": "^1.12.2"
+  },
+  "dependencies": {
+    "lodash": "^3.0.0"
+  }
+}
